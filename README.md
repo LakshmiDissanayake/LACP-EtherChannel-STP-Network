@@ -127,7 +127,7 @@ Through this project, I gained practical experience in:
 
 --- 
 ## Project Files
-- [Packet Tracer Project](./LACP EtherChannel & STP Network Redundancy.pkt)
+-  [Download Packet Tracer Project](<./LACP EtherChannel & STP Network Redundancy.pkt>)
 - [Screenshots](./Screenshots/)
 
 *Developed as a personal networking project to strengthen practical knowledge of switching, link aggregation, and network redundancy.*
